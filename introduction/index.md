@@ -27,7 +27,7 @@ language and its abstractions and proceeed with the design and coding.
 However, when you're trying to do something new — not run of the mill — you
 often need to choose the language based on your intended system and its nature.
 You can't start from a language, you have to start with a design.
-You might end up creating a new language (_c_ and [_go_](/go) come to mind).
+You might end up creating a new language (_c_, _c++_ and [_go_](/go) come to mind).
 
 What we need is a highly congruent conceptual abstraction that helps
 us position state and functionality across the system.
