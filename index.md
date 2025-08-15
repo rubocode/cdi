@@ -9,3 +9,4 @@
 > **Alan Turing**
 
 * [Introduction](introduction)
+* [Fundamentals](fundamentals)
