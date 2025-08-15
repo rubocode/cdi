@@ -21,7 +21,7 @@ the system across multiple subsystems.
 A coherent system is a result of capturing the essentials — in a
 sense Platonic forms — so that the captured abstraction is stable and durable.
 
-Technically, each of the subsystems can contains its own subsystems and so on.
+Technically, each of the subsystems can contain its own subsystems and so on.
 It is silly to impose restrictions on how deep the nesting continues.
 In a real life system, this is part of the design and the architecture of
 the system.  It is always trutles all the way down, only now, you are the one
