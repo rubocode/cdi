@@ -1,4 +1,4 @@
-> [home](/programming)
+> [home](/computing)
 > &bull; This is a work in progress!
 
 ![banner](/cdi/photos/banner.png)
