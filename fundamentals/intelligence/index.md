@@ -39,6 +39,6 @@ We take the analogous situation of our conception of the atom.
 While we know that electrons, protons, neutrons and other
 constituents exist, we take the fundamental unit to be an atom.
 Yes, data and functions are fundamental in computing.
-But, we choose to operate at the level of _an intelligence_
+But, we choose to operate at the level of _a node of intelligence_
 as the fundamental unit.
 We will explore the ramifications.
