@@ -34,10 +34,12 @@ This is quite a bit different from an object-oriented view which
 It is worth remebering that we view objects as passive.
 Someone needs to send a message to an object for it to do something.
 
-We also take a higher view than thinking of computation as
+Here, we take a higher view than thinking of computation as
 a combination of data and functions.
 In practical terms it is, but in terms of what we want to model
 it is not.
+We are looking for a bigger picture bird's eye view that helps
+us design and understand languages and systems.
 
 We take the analogous situation of our conception of the atom.
 While we know that electrons, protons, neutrons and other
