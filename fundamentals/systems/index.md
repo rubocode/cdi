@@ -34,7 +34,7 @@ for computational activity.
 
 We also restrict ourselves to the _Von Neumann Architecture_.
 While this exploration may become useful for the folks in
-_Qunatum Computing_, we don't bother with that.
+_Quantum Computing_, we don't bother with that.
 We would be overextending ourselves.
 
 This is an exercise in reflection, consolidation, crystallization in
