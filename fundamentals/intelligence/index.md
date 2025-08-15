@@ -10,13 +10,18 @@
 
 Humans create mental models to make sense of the world.
 The thing is that different people experience the world differently.
-You shift your perspective and now you see the world in a whole
-new way.  This is why philosophers have tried for centuries to
-search for the truth.  They had the hope not to be troubled by
-a whole new different perspective.  These can be rather unsettling.
+When you shift your perspective, you begin to see the world in a
+whole new way.  This is why philosophers have tried for centuries to
+search for the truth.  They had the hope of not being troubled by
+a whole new different perspective — a stable objective and absolute
+truth instead of a subjective and relative one.
+
+This can be rather unsettling.
 Human progress, however, has depended in major paradigm shifts.
-Yet, some ideas still endure — such as Platonic forms.
-It seems a fundamental idea.
+Yet, some fundamental ideas still endure — such as Platonic forms.
+Since we are in the business of creating software, this notion
+of enduring fundamentals is an integral part of the craft.
+It is quite useful for a programmer to also be a philosopher.
 
 In this exploration, we take the fundamental element of a system
 as ***a node of intelligence***.  This is a higher-level abstraction
