@@ -20,8 +20,8 @@ Yet, some ideas still endure — such as Platonic forms.
 It seems a fundamental idea.
 
 In this exploration, we take the fundamental element of a system
-as _an intelligence_.  This is a higher-level abstraction of an
-active component that is alive.
+as ***a node of intelligence***.  This is a higher-level abstraction
+of an active component that is alive.
 Active means that it will initiate action — it has agency.
 Alive means that its internal state can change without provocation.
 
