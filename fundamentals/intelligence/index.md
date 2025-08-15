@@ -4,10 +4,9 @@
 
 ## Intelligence
 
-> If you looked at the programming languages today,
-> you'll probably get the idea that the world is object-oriented.
-> Hm, but it's not.  It's actually parallel.  
-> **Rob Pike**
+> The real voyage of discovery consists not in seeking new landscapes,
+> but in having new eyes.  
+> **Marcel Proust**
 
 Humans create mental models to make sense of the world.
 The thing is that different people experience the world differently.
