@@ -3,7 +3,7 @@
 
 ![banner](/cdi/photos/banner.png)
 
-## Collaborative Distributed Intelligence
+## Understanding Systems 
 
 > Those who can imagine anything, can create the impossible.  
 > **Alan Turing**
