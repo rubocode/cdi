@@ -36,7 +36,7 @@ a given system as one of Collaborative Distributed Intelligence (CDI).
 
 We explore how this applies to software design from very fundamental
 elements to language abstractions.
-It helps to think of this as an exercise in language design.
+It helps to think of this as an exercise in language design focusing on semantics.
 The end result is that you will be able to utilize an existing
 programming language better as well as design your computing elements —
 data, functions, classes and modules with accuracy, stability and endurance.
