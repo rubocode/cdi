@@ -22,7 +22,7 @@ From high-level design to low-level details, you are always figuring out
 where to place a particular piece of state (data) or a functionality.
 Your goal is to have clarity, the right semantics and conceptual integrity.
 
-Often programmers start from an understanding of a particular programming
+Often, programmers start from an understanding of a particular programming
 language and its abstractions and proceeed with the design and coding.
 However, when you're trying to do something new — not run of the mill — you
 often need to choose the language based on your intended system and its nature.
