@@ -1,5 +1,5 @@
 > [home](/computing)
-> &bull; This is a work in progress!
+> &bull; Work in progress...
 
 ![banner](/cdi/photos/banner.png)
 
