@@ -1,5 +1,5 @@
 > [home](/)
-> &bull; [models/ecology](/models/ecology)
+> &bull; [models](/models/ecology)
 > &bull; Work in progress...
 
 ![banner](/cdi/photos/banner.png)
