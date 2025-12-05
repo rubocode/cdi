@@ -1,4 +1,5 @@
-> [home](/computing)
+> [home](/)
+> &bull; [models/ecology](/models/ecology]
 > &bull; Work in progress...
 
 ![banner](/cdi/photos/banner.png)
